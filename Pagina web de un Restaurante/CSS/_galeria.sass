@@ -1,0 +1,15 @@
+.galeria
+    overflow: hidden
+    width: 100%
+    .foto
+        width: 80%
+        display: grid
+        grid-template-columns: repeat(4, 1fr)
+        margin: 0 auto
+        img
+            width: 100%
+            vertical-align: top
+            opacity: 0.7
+            &:hover
+                opacity: 1
+                transition: all .5s ease
