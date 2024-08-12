@@ -2,7 +2,7 @@
   <h1>Welcome to my profile !</h1>
 </div>
 <div align="center">
-  <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Logo%20grande.png" width="900px" height="200px">
+  <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/Logo%20grande.png" width="900px" height="200px">
 </div>
 <div>
   <h2>My description:</h2>
