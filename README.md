@@ -29,6 +29,5 @@
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/sql.png" width="180px" height="40px">
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/Powerautomate.png" width="180px" height="40px">
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/powerapps.png" width="180px" height="40px">
-    <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/powerBI.png" width="180px" height="40px">
   </p>
 </div>
