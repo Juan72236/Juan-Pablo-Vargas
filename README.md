@@ -23,7 +23,7 @@
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/java.png" width="150px" height="50px">
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/matlab.png" width="150px" height="50px">
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/net.png" width="150px" height="50px">
-    <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/net.png" width="150px" height="50px">
+    <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/GIT.png" width="150px" height="50px">
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/node.png" width="150px" height="50px">
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/python.png" width="150px" height="50px">
     <img src="https://github.com/Juan72236/Juan-Pablo-Vargas/blob/main/Imagenes/sql.png" width="150px" height="50px">
